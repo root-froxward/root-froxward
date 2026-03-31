@@ -15,5 +15,6 @@ Currently working with Wazuh, CIS Benchmarks, and OSINT tooling.
 ---
 
 ## Contact
+ [Telegram](https://t.me/stayton)
 
-[Website](https://froxward-agency.com) / [Telegram](https://t.me/stayton)
+ 
