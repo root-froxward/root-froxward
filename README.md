@@ -43,6 +43,8 @@ Common scripts and checks for testing and hardening system security.
 
 Contact
 
-Discord: dstport
+Discord: landfee
+Telegram: @currencyfees
+
 
  
