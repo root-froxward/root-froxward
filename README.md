@@ -43,8 +43,8 @@ Common scripts and checks for testing and hardening system security.
 
 Contact
 
-Discord: landfee
-Telegram: @currencyfees
+Discord: wirekits
+Telegram: @landfee
 
 
  
