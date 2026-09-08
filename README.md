@@ -45,6 +45,6 @@ Contact
 
 Discord: wirekits
 Telegram: @landfee
-
+Email: dstrelayai@gmail.com
 
  
